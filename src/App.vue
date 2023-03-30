@@ -66,7 +66,7 @@ import RecipeCard from './components/RecipeCard.vue'
           <h2
             class="max-w-md text-center text-4xl font-bold text-slate-900 dark:text-white sm:text-left sm:text-5xl"
           >
-            We Boldy Go
+            Maciuś we Boldy Go
             <span class="text-indigo-700 dark:text-indigo-300"
               >Where No Rocket</span
             >
