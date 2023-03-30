@@ -66,22 +66,20 @@ import RecipeCard from './components/RecipeCard.vue'
           <h2
             class="max-w-md text-center text-4xl font-bold text-slate-900 dark:text-white sm:text-left sm:text-5xl"
           >
-            Maciuś we Boldy Go
+            Ewa wyruszyła w podróż ku swojej 
             <span class="text-indigo-700 dark:text-indigo-300"
-              >Where No Rocket</span
+              >Nowej M3 Przyszłości.. </span
             >
-            Has Gone Before...
           </h2>
           <p
             class="mt-4 max-w-md text-center text-2xl text-slate-700 dark:text-slate-400 sm:text-left"
           >
-            We're building rockets for the next century today. From the moon to
-            Mars, Jupiter and beyond...
+            My to na marsie mamy nadzieję... i wierzymy w nią
           </p>
           <p
             class="mt-4 max-w-md text-center text-2xl text-slate-700 dark:text-slate-400 sm:text-left"
           >
-            Think Acme Rockets.
+            Radośni Marsjanie.
           </p>
         </article>
         <img class="w-1/2" src="./img/rocketdab.png" alt="Rocket Dab" />
