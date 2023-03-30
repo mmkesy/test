@@ -74,7 +74,7 @@ import RecipeCard from './components/RecipeCard.vue'
           <p
             class="mt-4 max-w-md text-center text-2xl text-slate-700 dark:text-slate-400 sm:text-left"
           >
-            My to na marsie mamy nadzieję... i wierzymy w nią
+            My to na marsie mamy nadzieję...
           </p>
           <p
             class="mt-4 max-w-md text-center text-2xl text-slate-700 dark:text-slate-400 sm:text-left"
